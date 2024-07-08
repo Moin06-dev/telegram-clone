@@ -1,0 +1,25 @@
+.message-input {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #2c2f33;
+    border-top: 1px solid #ddd;
+  }
+  
+  .input-root {
+    background-color: #40444b;
+    border-radius: 20px;
+  }
+  
+  .input-input {
+    color: #fff;
+  }
+  
+  .message-input .MuiIconButton-root {
+    color: #b9bbbe;
+  }
+  
+  .message-input .MuiSvgIcon-root {
+    color: #b9bbbe;
+  }
+  
