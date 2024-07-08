@@ -75,6 +75,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## 📄 License
 
 This project is licensed under the MIT License.
-```
 
-If the emojis still do not appear, try viewing the README file on GitHub or another platform that supports emoji rendering, as some text editors may not display emojis properly.
