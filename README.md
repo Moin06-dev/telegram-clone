@@ -25,14 +25,6 @@ This project replicates the UI and basic functionalities of the Telegram messagi
 - **Material-UI**: For UI components and icons.
 - **CSS**: For custom styling.
 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](https://via.placeholder.com/800x600.png?text=Home+Page+Screenshot)
-
-### Chat Window
-![Chat Window](https://via.placeholder.com/800x600.png?text=Chat+Window+Screenshot)
-
 ## 💻 Installation and Setup
 
 1. **Clone the repository**:
