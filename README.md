@@ -1,6 +1,3 @@
-If the emojis are not visible to you, it might be due to your text editor's settings or font. However, here’s the updated README with a different approach to ensure visibility:
-
-```markdown
 # Telegram Clone 🚀
 
 This project is a Telegram clone built using React. It was created as part of an assignment for a ReactJS Frontend Web Development position at BeyondChats.
